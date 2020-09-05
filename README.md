@@ -12,7 +12,7 @@ Seperti namanya, widget koleksi ditujukan khusus untuk menampilkan berbagai elem
 
 ##### Widget ListView
 
-#### Widget GridView
+##### Widget GridView
 ##### Widget kontrol
 
 Tujuan utama widget kontrol adalah menampilkan fungsi yang sering digunakan, yang dapat dipicu oleh pengguna langsung dari layar utama tanpa perlu membuka aplikasi terlebih dahulu. Anggap widget ini sebagai remote kontrol untuk aplikasi. Contoh umum widget kontrol adalah widget aplikasi musik yang memungkinkan pengguna memutar, menjeda, atau melewati lagu dari luar aplikasi musik yang sebenarnya.

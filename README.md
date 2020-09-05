@@ -43,7 +43,7 @@ untuk tampilan detail ini kita bisa melihat status tanaman yang sudah kita tamba
 
 #### Tampilan Widget Pada Desktop
 Untuk tampilan widget pada desktop android (**sebelum Diperbesar**)
-![Alt Text](https://github.com/adam033/WidgetJago/blob/master/Screenshot%20(320).png)
+![Alt Text](https://github.com/adam033/WidgetJago/blob/master/Screenshot%20(321).png)
 Untuk tampilan widget pada desktop android (**sebelum Diperbesar**)
 ![Alt Text](https://github.com/adam033/WidgetJago/blob/master/Screenshot%20(322).png)
 

@@ -28,7 +28,10 @@ Pada dasarnya, widget pemutar musik adalah widget kontrol, tetapi juga menampilk
 
 #### Tampilan Awal
 ![Alt Text](https://github.com/adam033/WidgetJago/blob/master/Screenshot%20(317).png)
+untuk tampilan awal ini yaitu hanya berisi beberapa tanaman yang sudah anda tambahkan ke laman anda , melalui **tombol +** dibawah pojok kanan.
 
 #### Tampilan Penambahan Plant
 ![Alt Text](https://github.com/adam033/WidgetJago/blob/master/Screenshot%20(318).png)
+untuk tampilan penambahan ini berisi kolom penambahan tanaman ke laman utama anda , penambahan tanamanya bisa berupa **Vine atau Cactus**
 
+#### 

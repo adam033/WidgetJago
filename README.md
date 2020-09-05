@@ -34,4 +34,12 @@ untuk tampilan awal ini yaitu hanya berisi beberapa tanaman yang sudah anda tamb
 ![Alt Text](https://github.com/adam033/WidgetJago/blob/master/Screenshot%20(318).png)
 untuk tampilan penambahan ini berisi kolom penambahan tanaman ke laman utama anda , penambahan tanamanya bisa berupa **Vine atau Cactus**
 
-#### 
+#### Tampilan Detail Plant
+![Alt Text](https://github.com/adam033/WidgetJago/blob/master/Screenshot%20(319).png)
+untuk tampilan detail ini kita bisa melihat status tanaman yang sudah kita tambahkan , berupa **umur dan kapan terakhir disirami** dan juga terdapat beberapa tombol seperti tombol **gunting air dan kembali** dan berikut adalah fungsinya : <br>
+1. Gunting = membuang tanaman / memotong / menghapus tanaman yang sudah anda tambahkan
+2. Back = Kembali ke Kolom penambahan / tampilan awal
+3. Air = Menyiram tanaman dan Akan mereset waktu terakhir disiram dan menggantinya dengan waktu anda menyiram tanaman tersebut.
+
+#### Tampilan Widget
+

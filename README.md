@@ -51,5 +51,6 @@ Untuk tampilan widget pada desktop android (**Sesudah Diperbesar**)
 ________________________________________________________________________________________________
 
 ### Terima Kasih , Dan Semoga Bermanfaat
-**DAMJAGO**
+**@DAMJAGO**
+**Resource Link :** https://github.com/udacity/AdvancedAndroid_MyGarden/pull/21/files
 

@@ -26,4 +26,9 @@ Meskipun sebagian besar widget cenderung sesuai dengan tiga jenis yang dijelaska
 Untuk keperluan perencanaan widget, pusatkan widget pada salah satu jenis dasar widget dan tambahkan elemen jenis lainnya jika diperlukan.
 Pada dasarnya, widget pemutar musik adalah widget kontrol, tetapi juga menampilkan informasi tentang lagu yang sedang diputar. Widget ini menggabungkan widget kontrol dengan elemen jenis widget informasi. 
 
+#### Tampilan Awal
 ![Alt Text](https://github.com/adam033/WidgetJago/blob/master/Screenshot%20(317).png)
+
+#### Tampilan Penambahan Plant
+![Alt Text](https://github.com/adam033/WidgetJago/blob/master/Screenshot%20(318).png)
+

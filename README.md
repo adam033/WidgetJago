@@ -42,8 +42,14 @@ untuk tampilan detail ini kita bisa melihat status tanaman yang sudah kita tamba
 3. Air = Menyiram tanaman dan Akan mereset waktu terakhir disiram dan menggantinya dengan waktu anda menyiram tanaman tersebut.
 
 #### Tampilan Widget Pada Desktop
-Untuk tampilan widget pada desktop android (**sebelum Diperbesar**)
+Untuk tampilan widget pada desktop android (**Sebelum Diperbesar**)
 ![Alt Text](https://github.com/adam033/WidgetJago/blob/master/Screenshot%20(322).png)
-Untuk tampilan widget pada desktop android (**sebelum Diperbesar**)
+Untuk tampilan widget pada desktop android (**Sesudah Diperbesar**)
 ![Alt Text](https://github.com/adam033/WidgetJago/blob/master/Screenshot%20(323).png)
+**Note : untuk menambahkanya , tekan layar sampai muncul menu -> pilih tambahkan widget -> pilih MyGarden**
+
+________________________________________________________________________________________________
+
+### Terima Kasih , Dan Semoga Bermanfaat
+**DAMJAGO**
 

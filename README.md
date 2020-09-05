@@ -1,4 +1,4 @@
-# WidgetJago
+# WidgetJago (MyGarden)
 ### Apa Itu Widget?
 Widget adalah elemen WordPress yang memiliki fungsi tertentu: memasukkan konten dan struktur tambahan pada sidebar atau footer. Contohnya, widget menampilkan postingan terbaru, kalender, kolom pencarian, dan lainnya. <br>
 
@@ -41,5 +41,9 @@ untuk tampilan detail ini kita bisa melihat status tanaman yang sudah kita tamba
 2. Back = Kembali ke Kolom penambahan / tampilan awal
 3. Air = Menyiram tanaman dan Akan mereset waktu terakhir disiram dan menggantinya dengan waktu anda menyiram tanaman tersebut.
 
-#### Tampilan Widget
+#### Tampilan Widget Pada Desktop
+Untuk tampilan widget pada desktop android (**sebelum Diperbesar**)
+![Alt Text](https://github.com/adam033/WidgetJago/blob/master/Screenshot%20(320).png)
+Untuk tampilan widget pada desktop android (**sebelum Diperbesar**)
+![Alt Text](https://github.com/adam033/WidgetJago/blob/master/Screenshot%20(322).png)
 
